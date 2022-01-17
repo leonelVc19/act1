@@ -1,0 +1,49 @@
+.imagen{
+    height: 40px;
+    width: 45px;
+}
+.imagen1{
+    height: 224px;
+    width: 220px;
+}
+.for{    
+    border-color: black !important;
+
+}
+
+.texto{
+    color: black;
+    text-decoration: none;
+   
+}
+.texto :hover{
+    color: rgb(0, 26, 255) !important;
+}
+
+
+
+.tex{
+    color: black !important;
+}
+.tex :hover{
+color: rgb(11, 255, 255);
+}
+
+.carrucel-text{
+    color: black !important;
+    font-size: 3vw;
+    text-shadow: white 0.1em 0.1em 0.2em
+}
+.carrucel-text-whit{
+    color: white; 
+    font-size: 1.4vw;
+    text-shadow: black 0.2em 0.1em 0.2em
+}
+
+a :hover{
+    color: rgb(0, 0, 0) !important;
+}
+
+.pros :hover {
+    color: white !important;
+}
